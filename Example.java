@@ -3,7 +3,7 @@ public class Example{
 
 	for(int i=0;i<10;i++){
 
-		System.out.println("nagarjuna kuppala")
+		System.out.println("nagarjuna kuppala swathi")
 
 
 	}
